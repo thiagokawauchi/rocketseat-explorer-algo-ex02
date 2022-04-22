@@ -1,0 +1,1 @@
+Exercício 02 de lógica e algoritmos do curso Explorer da escola Rocketseat.
